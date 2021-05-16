@@ -7,4 +7,4 @@ This website was originally designed to host my photography and videography port
 ### Known Issues:
 
 - Obviously fairly rudimentary.
-- Responsive web design is virtually non-existant.
+- Responsive web design is virtually non-existent.
